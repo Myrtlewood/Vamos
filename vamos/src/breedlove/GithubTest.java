@@ -6,6 +6,7 @@ public class GithubTest {
 		//A
 		//영문이형 기타쟁이
 		//정래
+		//jong
 	}
 
 }
