@@ -15,6 +15,7 @@ public class GithubTest {
 >>>>>>> c30f90e00dd0b199cdf3879698bfc21a7e873144
 //♥
 //신고
+//주석 
 >>>>>>> branch 'master' of https://github.com/Myrtlewood/Vamos
 	}
 
